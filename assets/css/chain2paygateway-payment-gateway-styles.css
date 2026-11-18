@@ -1,0 +1,9 @@
+.chain2paygateway-payment-method-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.chain2paygateway-payment-method-wrapper img {
+    display: flex;
+    width: 100%;
+}
